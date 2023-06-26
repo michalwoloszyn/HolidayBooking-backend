@@ -10,6 +10,4 @@ Uploading photos feature doesn't work because photos are being retrieved from gi
 
 # Full description of the app here:
 
-locally run version:
-
 https://github.com/michalwoloszyn/HolidayBooking/
