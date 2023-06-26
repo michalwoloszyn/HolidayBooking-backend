@@ -72,7 +72,7 @@ app.post('/login', async (req, res) => {
             .cookie('token', token, {
               sameSite: 'none',
               secure: true,
-              domain: 'https://hoiday-booking.onrender.com',
+              domain: 'holidaybooking-backend-production.up.railway.app',
             })
             .json(userDoc);
         }
