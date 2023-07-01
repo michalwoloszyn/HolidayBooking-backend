@@ -1,6 +1,6 @@
 # AirBnb2.0 - holiday booking app
 
-Back end of the app hosted on railway.com - used for live demo version
+Back end of the app hosted on railway.com (live demo version)
 
 ## Demo
 
